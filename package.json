@@ -1,0 +1,23 @@
+{
+  "name": "userapi",
+  "version": "1.0.0",
+  "description": "API to get users",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "node src/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxilang11/UserAPI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxilang11/UserAPI/issues"
+  },
+  "homepage": "https://github.com/maxilang11/UserAPI#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
